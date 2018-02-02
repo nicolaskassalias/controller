@@ -1,3 +1,29 @@
+https://academy.vertabelo.com/blog/18-best-online-resources-for-learning-sql-and-database-concepts/
+
+http://carbon.nesbot.com/docs/#api-testing  => api para lidar com datas no PHP
+
+https://www.devmedia.com.br/manipulando-o-mysql-com-o-phpmyadmin/2276
+
+https://oxidigital.com.br/permitir-acesso-remoto-ao-mysql-no-ubuntu/
+
+http://localhost/phpmyadmin/tbl_select.php?db=teste01&table=cadastro&token=3977cd12296d26c6a8a4411a0d755d39
+
+https://dev.mysql.com/doc/refman/5.7/en/mysql-commands.html
+
+https://www.w3schools.com/php/default.asp
+
+https://www.w3schools.com/sql/
+
+https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all
+
+https://github.com/
+
+https://www.todoespacoonline.com/w/2014/08/associacao-agregacao-e-composicao/
+
+http://online.k19.com.br/
+
+
+
 https://mrezende.github.io/curso-verao-ime-usp-php-2018/
 
 https://secure.php.net/manual/pt_BR/tutorial.whatsnext.php
