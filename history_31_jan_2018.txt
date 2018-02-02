@@ -1,0 +1,500 @@
+   24  cd public_html/
+   25  atom .
+   26  php -v
+   27  php -V
+   28  php -v
+   29  pwd
+   30  cd
+   31  cp -r Documentos/public_h* .
+   32  pwd
+   33  cd public_html/
+   34  l
+   35  ls 
+   36  cat index.php 
+   37  gedit index.php &
+   38  history > history_01.txt
+   39  cat history_01.txt 
+   40  ls -l
+   41  atom index.php 
+   42  cat history_01.txt 
+   43  mkdir logica
+   44  cd logica/
+   45  atom .
+   46  atom Logica.php
+   47  ls
+   48  cd public_html/
+   49  ls
+   50  cd logica/
+   51  atom Logica.php &
+   52  atom Logica.php 
+   53  php ~/public_html/logica/
+   54  php ~/public_html/logica
+   55  php Logica.php 
+   56  git init
+   57  git push origin master
+   58  git init
+   59  git add .
+   60  git commit -m "primeiro commit"
+   61  git remote add origin https://github.com/nicolaskassalias/logica.git
+   62  history | grep php
+   63  php ExercicioFor01.php 
+   64  git add .
+   65  git commit -m "programa exibe nome"
+   66  git push origin master
+   67  git add .
+   68  git commit -m "programa exibe nome"
+   69  git push origin master
+   70  php ExercicioFor02.php 
+   71  git add .
+   72  git -m "programa números de 1 a 10"
+   73  git commit -m "programa números de 1 a 10"
+   74  push origin master
+   75  git push origin master
+   76  php ExercicioFor03.php 
+   77  git add .
+   78  git commit -m "programa pares e ímpares com *"
+   79  git push origin master
+   80  php ExercicioFor04.php 
+   81  git add .
+   82  git commit -m "exibe PIN para os números múltiplos de 4"
+   83  gip push origin master
+   84  git push origin master
+   85  php ExercicioFor05.php 
+   86  git add .
+   87  git commit -m "programa exibe triangulo"
+   88  git push origin master
+   89  php ExercicioFor06.php 
+   90  php ExercicioFor05.php 
+   91  git add .
+   92  git commit -m "programa exibe varios triangulos"
+   93  git push origin master
+   94  php ExercicioFor07.php 
+   95  git add .
+   96  git commit -m "Sequência de Fibonacci"
+   97  git push origin master
+   98  php ExercicioArgv01.php teste
+   99  php ExercicioArgv01.php 
+  100  php ExercicioArgv02.php 
+  101  php ExercicioArgv02.php zzz
+  102  php ExercicioArgv02.php zzz asasa
+  103  php ExercicioArgv01.php maria zeze
+  104  php ExercicioArgv02.php maria zeze
+  105  php ExercicioArgv02.php maria zeze aaa
+  106  php ExercicioArgv03.php maria zeze aaa
+  107  php ExercicioBaskara03.php maria zeze aaa
+  108  php ExercicioBaskara03.php 1 1 1
+  109  php ExercicioBaskaraOK1.php 0 1 1
+  110  hp ExercicioBaskara03.php 1 1 1
+  111  php ExercicioBaskara03.php 0 1 1
+  112  php ExercicioBaskaraOK1.php 0 1 1
+  113  php ExercicioBaskaraOK1.php 1 26 1
+  114  ls
+  115  ls -l ExercicioBaskara*
+  116  rm ExercicioBaskara0*
+  117  ls -l ExercicioBaskara*
+  118  ls -l 
+  119  git add .
+  120  git commit -m "varios"
+  121  git push origin master
+  122  cd ..
+  123  mkdir orientacao-objetos
+  124  cd orientacao-objetos/
+  125  atom .
+  126  cd ../logica/
+  127  gedit endercos.txt &
+  128  cd ..
+  129  php Conta01.php 
+  130  git init
+  131  git add .
+  132  git commit -m "orientacao objetos PHP"
+  133  git remote add origin https://github.com/nicolaskassalias/orientacao-objetos.git
+  134  git push -u origin master
+  135  php Conta01.php 
+  136  git add .
+  137  git commit -m "orientacao objetos PHP"
+  138  git remote add origin https://github.com/nicolaskassalias/orientacao-objetos.git
+  139  git push -u origin master
+  140  cp ../logica/endercos.txt .
+  141  php Cartao01.php 
+  142  git add .
+  143  git commit -m "orientação ao bojetos 02"
+  144  git push -u origin master
+  145  exit
+  146  pwd
+  147  ls
+  148  cd public_html/
+  149  ls
+  150  atom .
+  151  cd orientacao-objetos/
+  152  php Curso01.php 
+  153  l
+  154  ls
+  155  ls -l
+  156  gedit endercos.txt &
+  157  git init 
+  158  git add .
+  159  git commit -m "prim commit de 22/01/2018"
+  160  git remote add origin https://github.com/<USUARIO_GITHUB>/orientacao-a-objetos.gitnicolaskassalias/orientacao-objetos
+  161  git remote add origin https://github.com/<USUARIO_GITHUB>nicolaskassalias/orientacao-objetos/orientacao-a-objetos.gitnicolaskassalias/orientacao-objetos
+  162  git remote add origin https://github.com/nicolaskassalias/orientacao-objetos/orientacao-a-objetos.gitnicolaskassalias/orientacao-objetos
+  163  git push origin master
+  164  php Aluno01.php 
+  165  git add .
+  166  git commit -m "adição classe Aluno"
+  167  git push origin master
+  168  ls
+  169  atom .
+  170  php Funcionario01.php 
+  171  php Turma01.php 
+  172  git add .
+  173  it commit -m "insere Turma e Aluno"
+  174  git commit -m "insere Turma e Aluno"
+  175  git push origin master
+  176  php Cartao01.php 
+  177  php TestaCartao01.php 
+  178  git add .
+  179  git commit -m "adicao da classe TestaCarta01.php"
+  180  git push origin master
+  181  pwd
+  182  ls
+  183  git add .
+  184  git commit -m "adicao de págin html formulario.html e Exibeformulario.php"
+  185  git push origin master
+  186  mysql
+  187  mysql -u root -p
+  188  git add .
+  189  git commit -m "modifica e usa mysql"
+  190  git push origin master
+  191  git add .
+  192  git commit -m "modifica endereco.txt para saber usar mysql"
+  193  git push origin master
+  194  ls
+  195  cd public_html/
+  196  ls
+  197  cd orientacao-objetos/
+  198  ls
+  199  ls -l
+  200  gedit endercos.txt &
+  201  date
+  202  mysql -t root
+  203  mysql -u root
+  204  history |grep root
+  205  mysql -u root -p 
+  206  ls -l his*
+  207  history >> history_23_jan-2018.tt
+  208  mysql -u root -p 
+  209  ls
+  210  atom forumulario.html 
+  211  mv history_23_jan-2018.tt history_23_jan-2018.txt
+  212  mkdir ~/lixo
+  213  ls
+  214  mv salvaCliente.php ~/lixo/
+  215  git init
+  216  git add .
+  217  git commit -m "Data 23/jan/2018"
+  218  git remote add origin https://github.com/
+  219  1
+  220  0
+  221      0
+  222  nicolaskassalias/orientacao-objetos
+  223  git remote add origin https://github.com/nicolaskassalias/orientacao-objetos.git
+  224  git push origin master
+  225  git add .
+  226  git commit -m "salavaCilenteMarceloResende.php"
+  227  git push origin master
+  228  git add .
+  229  git commit -m "salvaCilenteMarceloResende.php que evita sql injection"
+  230  git push origin master
+  231  cd ..
+  232  mkdir metodos
+  233  atom .
+  234  cd metodos/
+  235  atom .
+  236  php TestaConta.php 
+  237  init
+  238  git init
+  239  git add .
+  240  git commit -m "primeiro"
+  241  git remote add origin https://github.com/nicolaskassalias/metodos.git
+  242  git push -u origin master
+  243  php TestaConta.php 
+  244  git add .
+  245  git commit -m "agencia com uso de métodos"
+  246  git push origin master
+  247  php TestaFuncionario.php 
+  248  git add .
+  249  git commit -m "Funcionario com uso de métodos"
+  250  git push origin master
+  251  cp ../orientacao-objetos/*.txt .
+  252  ls
+  253  git add .
+  254  git commit -m "Funcionario com uso de métodos"
+  255  git push origin master
+  256  ls
+  257  cd public_html/
+  258  ls
+  259  cd metodos/
+  260  ls
+  261  atom Conta.php 
+  262  ls 
+  263  gedit endercos.txt &
+  264  git init
+  265  cd ..
+  266  mkdir agregacao
+  267  cd agregacao/
+  268  cp ../metodos/*.txt .
+  269  ls 
+  270  ls
+  271  gedit endercos.txt &
+  272  git init
+  273  git add .
+  274  agit commit -m "primeiro de agragação"
+  275  git commit -m "primeiro de agragação"
+  276  git remote add origin https://github.com/nicolaskassalias/agregacao.git
+  277  git push -u origin master
+  278  atom CartaoDeCredito.php
+  279  cp ../metodos/Cliente.php .
+  280  php CartaoDeCredito.php 
+  281  cat ../metodos/Funcionario01.php 
+  282  cat ../metodos/Cliente.php 
+  283  cat ../orientacao-objetos/Exibeformulario.php 
+  284  cat ../metodos/Funcionario01.php 
+  285  cat ../metodos/TestaConta.php 
+  286  php CartaoDeCredito.php 
+  287  gedit ../orientacao-objetos/TestaCartao01.php &
+  288  php CartaoDeCredito.php 
+  289  ls
+  290  cat Cliente.php 
+  291  php CartaoDeCredito.php 
+  292  gedit ../orientacao-objetos/Cliente01.php  &
+  293  gedit ../orientacao-objetos/salvaClienteMarceloResende.php &
+  294  gedit ../orientacao-objetos/Cartao02.php &
+  295  gedit ../orientacao-objetos/Cartao01.php &
+  296  gedit ../orientacao-objetos/Funcionario01.php &
+  297  gedit ../orientacao-objetos/salvaClienteMeu.php &
+  298  gedit ../orientacao-objetos/Curso01.php &
+  299  php CartaoDeCredito.php 
+  300  php TestaCartaoDeCredito.php 
+  301  cp -R ../orientacao-objetos/lib/ .
+  302  ls
+  303  php TestaAlunoRelacao.php 
+  304  ls -lt
+  305  rm Cliente.php 
+  306  rm CartaoDeCredito.php 
+  307  rm TestaCartaoDeCredito.php 
+  308  ls -lt
+  309  add .
+  310  git add .
+  311  git commit -m "relacionamento"
+  312  git push origin master
+  313  ls -lt
+  314  date
+  315  git add .
+  316  git commit -m "realcionamento OK"
+  317  git push origin master
+  318  ls 
+  319  git add .
+  320  git commit -m "enderecos.txt atualizado"
+  321  git add .
+  322  git commit -m "enderecos.txt alterado"
+  323  git push origin master
+  324  eixt
+  325  exit
+  326  ls
+  327  cd public_html/
+  328  ls
+  329  mkdir static
+  330  cd static/
+  331  atom .
+  332  ls -l
+  333  php TestaConta.php 
+  334  cd public_html/static/
+  335  php TestaConta.php 
+  336  ls
+  337  cp -r ../agregacao/lib/ .
+  338  php TestaConta.php 
+  339  php TestaConta1.php 
+  340  cd ..
+  341  mkdir heranca
+  342  cd heranca/
+  343  atom .
+  344  ls
+  345  php TestaHeranca.php 
+  346  cd ..
+  347  ls
+  348  ls -t
+  349  ls -tl
+  350  cd static/
+  351  ls
+  352  git init
+  353  git commit -m "first commit"
+  354  git add .
+  355  git commit -m "first commit"
+  356  git remote add origin https://github.com/nicolaskassalias/static.git
+  357  git push -u origin master
+  358  cd ..
+  359  ls
+  360  cd heranca/
+  361  ls -la
+  362  git init
+  363  ls -la
+  364  git add .
+  365  ls -la
+  366  git commit -m "heranca"
+  367  git push remote master
+  368  $ git push remote master
+  369  git remote add origin https://github.com/nicolaskassalias/heranca.git
+  370  git push -u origin master
+  371  g++ --version
+  372  mkdir testeFuzzy
+  373  cd testeFuzzy/
+  374  mv ~/Downloads/*.cpp .
+  375  ls
+  376  gedit betaFuzz09Melhora05.cpp &
+  377  mv ~/Downloads/Comb_Rules.txt .
+  378  g++ betaFuzz09Melhora05.cpp -o beta
+  379  mpic++ betaFuzz09Melhora05.cpp -o beta
+  380  g++ betaFuzz09Melhora05.cpp -o beta
+  381  ./beta
+  382  ls
+  383  gedit fuzzySimple01.cpp &
+  384  g++ fuzzySimple01.cpp -o simples01
+  385  ./simples01 
+  386  g++ fuzzySimple01.cpp -o simples01
+  387  ./simples01 
+  388  g++ fuzzySimple01.cpp -o simples01
+  389  ./simples01 
+  390  g++ fuzzySimple01.cpp -o simples01
+  391  ./simples01 
+  392  g++ fuzzySimple01.cpp -o simples01
+  393  ./simples01 
+  394  g++ fuzzySimple01.cpp -o simples01
+  395  ./simples01 
+  396  ls
+  397  rm *
+  398  cd ..
+  399  rmdir testeFuzzy/
+  400  ls
+  401  git init .
+  402  git init 
+  403  git add .
+  404  git commit -m "proj laravel"
+  405  git remote add https://github.com/nicolaskassalias/primeiroexemplo.git
+  406  git remote add origin https://github.com/nicolaskassalias/primeiroexemplo.git
+  407  git push -u origin master
+  408  git init
+  409  cp ~/public_html/endercos.txt .
+  410  rm endercos.txt 
+  411  git init
+  412  git status
+  413  git add .
+  414  git commit -m "incluiu saudcoes2"
+  415  git push origin master
+  416  cp ~/public_html/endercos.txt .
+  417  git add .
+  418  git commit -m "incluiu enderecos.txt"
+  419  git push origin master
+  420  cd ..
+  421  gedit ~/public_html/history_30Jan.txt &
+  422  php artisan serve
+  423  ls -l
+  424  rm -r views/
+  425  cd primeiroexemplo/
+  426  php laravel serve
+  427  atom .
+  428  exit
+  429  cd /opt/php-verao/
+  430  ls
+  431  ls -la
+  432  cd ..
+  433  ls
+  434  cd eclipse/
+  435  ls
+  436  cd ..
+  437  find . -name 'projeto*'
+  438  pwd
+  439  cd
+  440  ls
+  441  cd public_html/
+  442  mkdir atom .
+  443  atom .
+  444  ls -lt
+  445  cd heranca/
+  446  ls
+  447  cd ../static/
+  448  ls
+  449  cd ../agregacao/
+  450  ls
+  451  cp endercos.txt ../
+  452  cd ..
+  453  ls
+  454  gedit endercos.txt &
+  455  date
+  456  ls
+  457  cd 
+  458  pwd
+  459  ls
+  460  cp -r projetobase/ /opt/php-verao/
+  461  ls
+  462  cd public_html/
+  463  ls
+  464  ls -lt 
+  465  cp heranca/
+  466  cp endercos.txt heranca/
+  467  cd /opt/php-verao/
+  468  ls
+  469  cd projetobase/
+  470  ls
+  471  cd ..
+  472  laravel 
+  473  laravel lis
+  474  laravel list
+  475  laravel list 
+  476  cp -r projetobase/ primeiroexemplo
+  477  ls
+  478  gedit ~/public_html/endercos.txt &
+  479  cd primeiroexemplo/
+  480  atom .
+  481  artisan
+  482  artigan
+  483  artisan
+  484  php artisan
+  485  php artisan serve
+  486  ls
+  487  history
+  488  date
+  489  history ~/public_html/history_30Jan.txt
+  490  history>> ~/public_html/history_30Jan.txt
+  491  cd ..
+  492  cp -R projetobase/ views
+  493  cd views/
+  494  ls
+  495  atom .
+  496  cd ..
+  497  ls -l
+  498  exit
+  499  ls 
+  500  cp primeiroexemplo/endercos.txt .
+  501  ls
+  502  gedit endercos.txt &
+  503  php artisan
+  504  cd views/
+  505  php artisan
+  506  php artisan help make:controller
+  507  php artisan  make:controller CursosController
+  508  git init
+  509  git add .
+  510  git commit -m "primeira página usando Blade"
+  511  git remote add origin https://github.com/nicolaskassalias/views.git
+  512  git push -u origin master
+  513  git status
+  514  git add .
+  515  git commit -m "acrescentando index e show de cursos"
+  516  git push origin master
+  517  git status
+  518  git add .
+  519  git commit -m "adicionando layout"
+  520  git push origin master
+  521  cd ..
+  522  ls h*
+  523  history >> history_31_jan_2018.txt 
