@@ -1,5 +1,7 @@
 https://academy.vertabelo.com/blog/18-best-online-resources-for-learning-sql-and-database-concepts/
 
+https://www.todoespacoonline.com/w/2014/09/mvc-em-php-parte-5/
+
 http://carbon.nesbot.com/docs/#api-testing  => api para lidar com datas no PHP
 
 https://www.devmedia.com.br/manipulando-o-mysql-com-o-phpmyadmin/2276
